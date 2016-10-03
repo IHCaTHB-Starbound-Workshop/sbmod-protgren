@@ -1,12 +1,12 @@
 {
-  "itemName" : "causg",
+  "itemName" : "napg",
   "price" : 50,
   "rarity" : "Common",
   "category" : "throwableItem",
-  "inventoryIcon" : "causg.png",
-  "image" : "causg.png",
-  "shortdescription" : "Caustic Grenade",
-  "description" : "Leaves behind gas and poison. dosn't smell good too.",
+  "inventoryIcon" : "telg.png",
+  "image" : "telg.png",
+  "shortdescription" : "Napalm Grenade",
+  "description" : "Spreads fire like a molotov but in a larger area. 7/10 humans love this smell in the morning!",
 
   "ammoUsage" : 1,
 
@@ -14,7 +14,7 @@
   "windupTime" : 0.0,
   "cooldown" : 0.4,
 
-  "projectileType" : "causg",
+  "projectileType" : "napg",
   "projectileConfig" : {
     "speed" : 25,
     "power" : 0,

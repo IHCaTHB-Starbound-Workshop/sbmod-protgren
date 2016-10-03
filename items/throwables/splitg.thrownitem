@@ -1,12 +1,12 @@
 {
-  "itemName" : "causg",
+  "itemName" : "splitg",
   "price" : 50,
   "rarity" : "Common",
   "category" : "throwableItem",
-  "inventoryIcon" : "causg.png",
-  "image" : "causg.png",
-  "shortdescription" : "Caustic Grenade",
-  "description" : "Leaves behind gas and poison. dosn't smell good too.",
+  "inventoryIcon" : "splitg.png",
+  "image" : "splitg.png",
+  "shortdescription" : "Split Grenade",
+  "description" : "explodes, splits into 6 smaller grenades and explodes... again!",
 
   "ammoUsage" : 1,
 
@@ -14,7 +14,7 @@
   "windupTime" : 0.0,
   "cooldown" : 0.4,
 
-  "projectileType" : "causg",
+  "projectileType" : "splitg",
   "projectileConfig" : {
     "speed" : 25,
     "power" : 0,
