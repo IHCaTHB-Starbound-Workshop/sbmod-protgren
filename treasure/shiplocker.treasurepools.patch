@@ -1,1 +1,4 @@
-
+[{"op":"add","path":"/starterTreasure/0/1/fill/-","value":{"item":["medg",1]}},
+{"op":"add","path":"/starterTreasure/0/1/fill/-","value":{"item":["splitg",1]}},
+{"op":"add","path":"/starterTreasure/0/1/fill/-","value":{"item":["causg",1]}},
+{"op":"add","path":"/starterTreasure/0/1/fill/-","value":{"item":["napg",1]}}]
