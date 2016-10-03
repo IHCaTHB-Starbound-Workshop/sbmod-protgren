@@ -1,0 +1,57 @@
+{
+  "projectileName" : "splitg",
+  "physics" : "grenade",
+  "bounces" : 0,
+  "timeToLive":5,
+  "image" : "splitg.png",
+  "animationCycle" : 1,
+  "frameNumber" : 1,
+  "lightColor" : [105, 64, 0],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bombblockexplosion/bombblockexplosion.config"
+    },
+    {
+      "action" : "projectile",
+      "type" : "splitgp",
+      "fuzzAngle" : 10,
+      "angleAdjust" : 10
+    },
+    {
+      "action" : "projectile",
+      "type" : "splitgp",
+      "fuzzAngle" : 10,
+      "angleAdjust" : 30
+    },
+    {
+      "action" : "projectile",
+      "type" : "splitgp",
+      "fuzzAngle" : 10,
+      "angleAdjust" : 50
+    },
+    {
+      "action" : "projectile",
+      "type" : "splitgp",
+      "fuzzAngle" : -10,
+      "angleAdjust" : -10
+    },
+    {
+      "action" : "projectile",
+      "type" : "splitgp",
+      "fuzzAngle" : -10,
+      "angleAdjust" : -30
+    },
+    {
+      "action" : "projectile",
+      "type" : "splitgp",
+      "fuzzAngle" : -10,
+      "angleAdjust" : -50
+    }
+  ],
+  "power" : 0,
+  "damageType" : "NoDamage",
+  "damageKind" : "default",
+  "damagePoly" : [],
+  "emitters" : []
+}

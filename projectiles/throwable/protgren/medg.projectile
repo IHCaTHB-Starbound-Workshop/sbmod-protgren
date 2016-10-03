@@ -1,0 +1,21 @@
+{
+  "projectileName" : "medg",
+  "physics" : "grenade",
+  "bounces" : 0,
+  "timeToLive":5,
+  "image" : "medg.png",
+  "animationCycle" : 1,
+  "frameNumber" : 1,
+  "lightColor" : [105, 64, 0],
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "fasthealingstatusprojectileblue"
+    }
+  ],
+  "power" : 0,
+  "damageType" : "NoDamage",
+  "damageKind" : "default",
+  "damagePoly" : [],
+  "emitters" : []
+}
