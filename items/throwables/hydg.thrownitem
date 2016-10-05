@@ -1,12 +1,12 @@
 {
-  "itemName" : "napg",
+  "itemName" : "hydg",
   "price" : 50,
   "rarity" : "Common",
   "category" : "throwableItem",
-  "inventoryIcon" : "napg.png",
-  "image" : "napg.png",
-  "shortdescription" : "Napalm Grenade",
-  "description" : "Spreads fire like a molotov but in a larger area. 7/10 humans love this smell in the morning!",
+  "inventoryIcon" : "hydg.png",
+  "image" : "hydg.png",
+  "shortdescription" : "Hydrogen Grenade",
+  "description" : "",
 
   "ammoUsage" : 1,
 
@@ -14,7 +14,7 @@
   "windupTime" : 0.0,
   "cooldown" : 0.4,
 
-  "projectileType" : "napg",
+  "projectileType" : "hydg",
   "projectileConfig" : {
     "speed" : 25,
     "power" : 0,

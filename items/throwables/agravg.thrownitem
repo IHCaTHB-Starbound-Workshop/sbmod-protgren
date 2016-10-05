@@ -1,12 +1,12 @@
 {
-  "itemName" : "napg",
+  "itemName" : "agravg",
   "price" : 50,
   "rarity" : "Common",
   "category" : "throwableItem",
-  "inventoryIcon" : "napg.png",
-  "image" : "napg.png",
-  "shortdescription" : "Napalm Grenade",
-  "description" : "Spreads fire like a molotov but in a larger area. 7/10 humans love this smell in the morning!",
+  "inventoryIcon" : "agravg.png",
+  "image" : "agravg.png",
+  "shortdescription" : "Anti Grav-nade",
+  "description" : "Nullifys gravity for affected enemys for 5 seconds. time to practice your aim!",
 
   "ammoUsage" : 1,
 
@@ -14,7 +14,7 @@
   "windupTime" : 0.0,
   "cooldown" : 0.4,
 
-  "projectileType" : "napg",
+  "projectileType" : "agravg",
   "projectileConfig" : {
     "speed" : 25,
     "power" : 0,
