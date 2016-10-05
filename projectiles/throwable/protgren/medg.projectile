@@ -11,6 +11,10 @@
     {
       "action" : "projectile",
       "type" : "fasthealingstatusprojectileblue"
+    },
+    {
+      "action":"item",
+      "name":"medeg"
     }
   ],
   "power" : 0,
