@@ -9,8 +9,14 @@
   "lightColor" : [105, 64, 0],
   "actionOnReap" : [
     {
-      "action" : "projectile",
-      "type" : "poisonstatusprojectile"
+      "action" : "loop",
+      "count" : 3,
+      "body" : [
+        {
+          "action" : "projectile",
+          "type" : "poisonstatusprojectile1.5"
+        }
+      ]
     }
   ],
   "power" : 0,

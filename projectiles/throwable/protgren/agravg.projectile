@@ -9,8 +9,8 @@
   "lightColor" : [105, 64, 0],
   "actionOnReap" : [
     {
-      "action" : "projectile",
-      "type" : "lowgravstatusprojectile"
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion/regularexplosionuniversal.config"
     }
   ],
   "power" : 0,
