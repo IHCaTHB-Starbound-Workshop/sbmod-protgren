@@ -1,9 +1,9 @@
 {
-  "projectileName" : "agravg",
+  "projectileName" : "flashg",
   "physics" : "grenade",
   "bounces" : 0,
   "timeToLive":5,
-  "image" : "agrav.png",
+  "image" : "flashg.png",
   "animationCycle" : 1,
   "frameNumber" : 1,
   "lightColor" : [105, 64, 0],
