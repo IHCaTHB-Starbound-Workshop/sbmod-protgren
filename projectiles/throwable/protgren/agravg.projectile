@@ -10,7 +10,7 @@
   "actionOnReap" : [
     {
       "action" : "projectile",
-      "type" : "lowgravstatusprojectile"
+      "type" : "agravgreap"
     }
   ],
   "power" : 0,
